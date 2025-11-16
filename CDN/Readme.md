@@ -54,11 +54,11 @@ The second solution is using a reverse proxy, aka Cloudflare. This is my savior.
 
 I’m gonna try to share with you the screenshots of the steps I followed to link my web app to Cloudflare .
 
-![image.png](attachment:a5c4ed55-2cd0-4af8-a82f-2830f237bcbe:image.png)
+![image.png](/System-Design-Lab//Static/Railway-logs.png)
 
 IT WOOOORKED ^^
 
-![image.png](attachment:ef4ee76c-3015-4437-8d6b-82735352ff42:image.png)
+![image.png](/System-Design-Lab//Static/Blocked.png)
 
 So basically here are the steps I did to overcome this problem :
 
